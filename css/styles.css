@@ -168,6 +168,9 @@ img{
   margin-right: 51px;
 
 }
+.link{
+      text-decoration: none;
+}
 
 .contacts {
   display: flex;
